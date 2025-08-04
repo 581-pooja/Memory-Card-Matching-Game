@@ -23,8 +23,5 @@ A simple Memory Card Matching Game built using **SwiftUI**. Flip cards, match pa
 - MVVM Architecture
 - Xcode 15+
 
-## 📸 Screenshot
-<img src="https://private-user-images.githubusercontent.com/66077775/473865173-6bd4096d-befb-466c-bb8f-0789e621ad33.jpeg" width="300"/>
-
 ## 🎥 Demo Video
 [▶️ Watch Demo Video](https://private-user-images.githubusercontent.com/66077775/473869395-af5b10e9-9021-4ccf-bd60-d1668648446b.mp4)
